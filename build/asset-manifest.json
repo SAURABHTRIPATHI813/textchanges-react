@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SAURABHTRIPATHI813/textchanges-react/static/css/main.fe9c92b1.css",
+    "main.js": "/SAURABHTRIPATHI813/textchanges-react/static/js/main.b7cd5d63.js",
+    "static/js/787.28cb0dcd.chunk.js": "/SAURABHTRIPATHI813/textchanges-react/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/SAURABHTRIPATHI813/textchanges-react/index.html",
+    "main.fe9c92b1.css.map": "/SAURABHTRIPATHI813/textchanges-react/static/css/main.fe9c92b1.css.map",
+    "main.b7cd5d63.js.map": "/SAURABHTRIPATHI813/textchanges-react/static/js/main.b7cd5d63.js.map",
+    "787.28cb0dcd.chunk.js.map": "/SAURABHTRIPATHI813/textchanges-react/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe9c92b1.css",
+    "static/js/main.b7cd5d63.js"
+  ]
+}
